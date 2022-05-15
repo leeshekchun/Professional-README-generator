@@ -71,7 +71,9 @@ console.log(data.contribute)
 ## Licence
   ${renderLicenseSection(data.license)}
 
-## Contact
+## Questions
+If you have any questions, please reach out to me at: 
+
   Github Profile: https://github.com/${data.Github}
 
   Email: ${data.email}

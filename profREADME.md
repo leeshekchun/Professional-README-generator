@@ -29,7 +29,9 @@
 ## Licence
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Contact
+## Questions
+If you have any questions, please reach out to me at: 
+
   Github Profile: https://github.com/f
 
   Email: g
