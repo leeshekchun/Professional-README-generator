@@ -5,7 +5,7 @@ A command-line application that dynamically generates a professional README.md f
 
 ## Installation
 The application will be invoked by using the following command:
-1. npm install inquirer （install inquirer package)
+1. npm install inquirer (install inquirer package)
 2. node index.js (invoked the application)
 
 ## Demonstration
