@@ -10,10 +10,10 @@ The application will be invoked by using the following command:
 
 ## Demonstration
 Prompt questions:
-![promptDemo](./src/promptDemo.png)
+![ReadmeScreenshot](./src/Readme-ss.gif)
 
 Example of the generated README:
-![ReadmeScreenshot](./src/Readme-ss.gif)
+![promptDemo](./src/promptDemo.png)
 
 ## Credits
 Module 9 lesson 1-5
