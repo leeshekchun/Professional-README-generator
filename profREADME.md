@@ -1,8 +1,8 @@
 
-# a
+# Readme generator
 
 ## Project Description
-  b
+  weekly challenge 9
 
 
 ## Table of Contents
@@ -15,16 +15,16 @@
   6. [Contact](#contact)
 
 ## Installation
-  c
+  None
 
 ## Language
-  d
+  Not applicable
 
 ## Contribute
-  JavaScript,HTML,CSS,ES6,jQuery,Bootstrap,Node
+  JavaScript,HTML,CSS
 
 ## Test
-  e
+  None
 
 ## Licence
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -32,7 +32,7 @@
 ## Questions
 If you have any questions, please reach out to me at: 
 
-  Github Profile: https://github.com/f
+  Github Profile: https://github.com/leeshekchun
 
-  Email: g
+  Email: leeshekchun@gmail.com
 
