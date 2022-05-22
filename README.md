@@ -9,10 +9,12 @@ The application will be invoked by using the following command:
 2. node index.js (invoked the application)
 
 ## Demonstration
-Prompt questions:
+1. Prompt questions:
+
 ![promptDemo](./src/Readme-ss.gif)
 
-Example of the generated README:
+2. Example of the generated README:
+
 ![readmescreenshot](./src/promptDemo.png)
 
 ## Credits
